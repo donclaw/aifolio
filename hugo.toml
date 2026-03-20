@@ -1,0 +1,39 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Digital & AI Frontiers'
+theme = 'stack'
+
+[params]
+mainSections = ["posts"]
+favicon = "img/avatar.png"
+
+[params.sidebar]
+emoji = "💡"
+subtitle = "Exploring AI, software, and the future of digital creation."
+avatar = "img/avatar.png"
+
+[params.widgets]
+homepage = [
+    { type = "search" },
+    { type = "archives", params = { limit = 5 } },
+    { type = "categories", params = { limit = 10 } },
+    { type = "tag-cloud", params = { limit = 10 } },
+]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+[menu.main.params]
+icon = "home"
+
+[params.comments]
+enabled = false
+
+[[menu.social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com"
+[menu.social.params]
+icon = "brand-github"

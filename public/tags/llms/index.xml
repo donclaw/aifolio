@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>LLMs on Digital &amp; AI Frontiers</title>
+        <link>http://localhost:1313/tags/llms/</link>
+        <description>Recent content in LLMs on Digital &amp; AI Frontiers</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 19 Mar 2026 10:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/llms/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI News: The Shift in Open Source</title>
+            <link>http://localhost:1313/posts/ai-news-weekly-roundup/</link>
+            <pubDate>Thu, 19 Mar 2026 10:00:00 -0400</pubDate>
+            <guid>http://localhost:1313/posts/ai-news-weekly-roundup/</guid>
+            <description>&lt;p&gt;Several major AI labs open-sourced their model weights this week with very permissive licenses.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-it-matters&#34;&gt;Why It Matters&#xA;&lt;/h3&gt;&lt;p&gt;This lowers the barrier to entry for solo developers and small teams trying to build local AI tools.&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-take--long-term-implications&#34;&gt;My Take &amp;amp; Long-term Implications&#xA;&lt;/h3&gt;&lt;p&gt;We are moving from a scarce model economy to an abundant one. The real value for startups will likely shift toward proprietary data and specialized fine-tuning.&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Quick Thoughts on Context Windows</title>
+            <link>http://localhost:1313/posts/quick-thoughts-on-llm-context/</link>
+            <pubDate>Mon, 16 Mar 2026 10:00:00 -0400</pubDate>
+            <guid>http://localhost:1313/posts/quick-thoughts-on-llm-context/</guid>
+            <description>&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;&amp;ldquo;In the age of infinite context, retrieval is still king.&amp;rdquo;&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;Even as LLM context windows get larger, efficient RAG is still necessary. Dumping the whole codebase into a prompt technically works, but it is slow and degrades the model&amp;rsquo;s focus. Feeding it exact snippets is much better.&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

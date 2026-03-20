@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Startups on Digital &amp; AI Frontiers</title>
+        <link>http://localhost:1313/tags/startups/</link>
+        <description>Recent content in Startups on Digital &amp; AI Frontiers</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 17 Mar 2026 10:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/startups/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Monetizing Open Source AI Tools</title>
+            <link>http://localhost:1313/posts/monetizing-open-source-ai/</link>
+            <pubDate>Tue, 17 Mar 2026 10:00:00 -0400</pubDate>
+            <guid>http://localhost:1313/posts/monetizing-open-source-ai/</guid>
+            <description>&lt;p&gt;How do product companies survive when the core models are free?&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-service-wrapped-model&#34;&gt;The &amp;ldquo;Service-Wrapped&amp;rdquo; Model&#xA;&lt;/h3&gt;&lt;p&gt;A common pattern is turning difficult open-source deployments into 1-click services. The value is simply saving people time.&lt;/p&gt;&#xA;&lt;h3 id=&#34;market-observations&#34;&gt;Market Observations&#xA;&lt;/h3&gt;&lt;p&gt;Startups focused on workflow integration instead of raw intelligence seem to get more B2B customers right now.&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

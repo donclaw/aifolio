@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Thoughts on Digital &amp; AI Frontiers</title>
+        <link>http://localhost:1313/tags/thoughts/</link>
+        <description>Recent content in Thoughts on Digital &amp; AI Frontiers</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 16 Mar 2026 10:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Quick Thoughts on Context Windows</title>
+            <link>http://localhost:1313/posts/quick-thoughts-on-llm-context/</link>
+            <pubDate>Mon, 16 Mar 2026 10:00:00 -0400</pubDate>
+            <guid>http://localhost:1313/posts/quick-thoughts-on-llm-context/</guid>
+            <description>&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;&amp;ldquo;In the age of infinite context, retrieval is still king.&amp;rdquo;&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;&lt;p&gt;Even as LLM context windows get larger, efficient RAG is still necessary. Dumping the whole codebase into a prompt technically works, but it is slow and degrades the model&amp;rsquo;s focus. Feeding it exact snippets is much better.&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

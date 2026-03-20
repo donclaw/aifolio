@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI &amp; Tech News on Digital &amp; AI Frontiers</title>
+        <link>http://localhost:1313/categories/ai--tech-news/</link>
+        <description>Recent content in AI &amp; Tech News on Digital &amp; AI Frontiers</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 19 Mar 2026 10:00:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/ai--tech-news/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI News: The Shift in Open Source</title>
+            <link>http://localhost:1313/posts/ai-news-weekly-roundup/</link>
+            <pubDate>Thu, 19 Mar 2026 10:00:00 -0400</pubDate>
+            <guid>http://localhost:1313/posts/ai-news-weekly-roundup/</guid>
+            <description>&lt;p&gt;Several major AI labs open-sourced their model weights this week with very permissive licenses.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-it-matters&#34;&gt;Why It Matters&#xA;&lt;/h3&gt;&lt;p&gt;This lowers the barrier to entry for solo developers and small teams trying to build local AI tools.&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-take--long-term-implications&#34;&gt;My Take &amp;amp; Long-term Implications&#xA;&lt;/h3&gt;&lt;p&gt;We are moving from a scarce model economy to an abundant one. The real value for startups will likely shift toward proprietary data and specialized fine-tuning.&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
