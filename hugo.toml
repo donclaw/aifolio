@@ -53,3 +53,6 @@ name = "GitHub"
 url = "https://github.com"
 [menu.social.params]
 icon = "brand-github"
+
+[services.googleAnalytics]
+id = "G-W957JWPD6C"
