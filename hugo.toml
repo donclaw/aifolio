@@ -29,7 +29,23 @@ weight = 10
 icon = "home"
 
 [params.comments]
-enabled = false
+enabled = true
+provider = "giscus"
+
+[params.comments.giscus]
+repo = "donclaw/aifolio"
+repoID = "R_kgDORsgLgg"
+category = "Announcements"
+categoryID = "DIC_kwDORsgLgs4C49uJ"
+mapping = "pathname"
+lightTheme = "light"
+darkTheme = "dark_dimmed"
+reactionsEnabled = 1
+emitMetadata = 0
+inputPosition = "bottom"
+lang = "en"
+strict = 0
+loading = "lazy"
 
 [[menu.social]]
 identifier = "github"
