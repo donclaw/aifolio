@@ -10,9 +10,6 @@ image_attribution: "Photo by [Shahadat Rahman](https://unsplash.com/@hishahadat)
 draft: false
 ---
 
-![Abstract technology code](https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTg2MjN8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3klMjBjb2RlfGVufDB8MHx8fDE3NzQwNjQ0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080)
-*Photo by [Shahadat Rahman](https://unsplash.com/@hishahadat) on [Unsplash](https://unsplash.com)*
-
 In October 2025, Andrej Karpathy said AI agents "just don't work." Two months later, he was mostly programming in English.
 
 That's not a gradual adoption curve. That's a step function — a sudden jump from one state to another, like water hitting 100°C. Karpathy described it himself: his coding workflow went from roughly 80% manual and 20% agents in November to 80% agents and 20% manual edits in December. He called it the most significant change to his programming routine in twenty years.
