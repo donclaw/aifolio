@@ -79,7 +79,7 @@ Late adopters aren't protecting their careers by waiting. They're betting that t
 
 Meanwhile, early adopters aren't just keeping their jobs. They're accessing new roles that don't exist for late adopters: AI orchestration, prompt engineering, agent design, AI-augmented code review. These aren't gimmicks—they're real specializations that command premium rates.
 
-One analysis found that about 8% of AI innovators and early adopters reduce up to 40% of their operational expenses. That's not a productivity bump—that's a fundamental restructuring of what's possible.
+One analysis found that about 8% of AI innovators[^3] and early adopters reduce up to 40% of their operational expenses. That's not a productivity bump—that's a fundamental restructuring of what's possible.
 
 ## What Happens Next: A 24-Month Prediction
 
@@ -119,15 +119,15 @@ The tools are real. The productivity gains are real. The career implications are
 
 You can be OK being left behind. But don't be surprised when the market isn't OK with leaving you behind.
 
----
-
-*What's your take? Are you early, late, or opting out entirely? I'm curious whether the HN commenters are right or if this is collective rationalization.*
 
 ---
 
 **Sources:**
 
-[^1]: Netguru, "AI Adoption Statistics in 2026" — 23% of jobs expected to change, 44% of workers' core skills disrupted.
-[^2]: Business Insider, "Leaders Worry About Skill Atrophy Due to AI Adoption" (Oct 2025) — 43% cite skill atrophy risk, 73% credit efficiency gains.
-[^3]: Tech-Stack.com, "Lessons Learned from Generative AI Early Adopters" — 8% of innovators reduce up to 40% of operational expenses.
-[^4]: Hacker News, "I'm OK being left behind, thanks" (Mar 2026) — 975 points, 755 comments.
+[^1]: Netguru, "AI Adoption Statistics in 2026" — 23% of jobs expected to change, 44% of workers' core skills disrupted. https://www.netguru.com/blog/ai-adoption-statistics
+
+[^2]: Business Insider, "Leaders Worry About Skill Atrophy Due to AI Adoption" (Oct 2025) — 43% cite skill atrophy risk, 73% credit efficiency gains. https://www.businessinsider.com/leaders-worry-skill-atrophy-ai-adoption-2025-10
+
+[^3]: Tech-Stack.com, "Lessons Learned from Generative AI Early Adopters" — 8% of innovators reduce up to 40% of operational expenses. https://tech-stack.com/generative-ai-early-adopters-lessons
+
+[^4]: Hacker News, "I'm OK being left behind, thanks" (Mar 2026) — 975 points, 755 comments. https://news.ycombinator.com/item?id=47454341
